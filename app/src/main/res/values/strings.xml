@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">30 Days Of Car Tips</string>
+
+
+    <string name="tip1_day">Dia 1</string>
+    <string name="tip1_titulo">Calibre os pneus regularmente</string>
+    <string name="tip1_conteudo">A calibragem correta garante segurança, economia e durabilidade.</string>
+
+    <string name="tip2_day">Dia 2</string>
+    <string name="tip2_titulo">Óleo do Motor: Verifique Sempre</string>
+    <string name="tip2_conteudo">Um motor com pouco óleo pode superaquecer e até fundir.</string>
+
+    <string name="tip3_day">Dia 3</string>
+    <string name="tip3_titulo">Use o Combustível Adequado</string>
+    <string name="tip3_conteudo">Sempre abasteça com combustível de qualidade e indicado para seu veículo.</string>
+
+    <string name="tip4_day">Dia 4</string>
+    <string name="tip4_titulo">Troque o Filtro de Ar</string>
+    <string name="tip4_conteudo">Um motor com pouco óleo pode superaquecer e até fundir.</string>
+
+    <string name="tip5_day">Dia 5</string>
+    <string name="tip5_titulo">Não Dirija com o Motor Frio</string>
+    <string name="tip5_conteudo">Espere o motor alcançar uma temperatura ideal antes de exigir mais potência.</string>
+
+    <string name="tip6_day">Dia 6</string>
+    <string name="tip6_titulo">Lave o Carro com Frequência</string>
+    <string name="tip6_conteudo">Além de manter a estética, a lavagem frequente remove resíduos que podem danificar a pintura.</string>
+
+    <string name="tip7_day">Dia 7</string>
+    <string name="tip7_titulo">Cuidado com Buracos</string>
+    <string name="tip7_conteudo">Evitar buracos preserva suspensão, pneus e rodas. Reduza a velocidade em vias esburacadas.</string>
+
+    <string name="tip8_day">Dia 8</string>
+    <string name="tip8_titulo">Faróis Alinhados</string>
+    <string name="tip8_conteudo">Faróis desalinhados podem prejudicar sua visão e incomodar outros motoristas. Verifique o alinhamento periodicamente.</string>
+
+    <string name="tip9_day">Dia 9</string>
+    <string name="tip9_titulo">Freios Sem Ruído</string>
+    <string name="tip9_conteudo">Ouviu um chiado ao frear? Pode ser desgaste das pastilhas. Leve ao mecânico antes que o problema piore.</string>
+
+    <string name="tip10_day">Dia 10</string>
+    <string name="tip10_titulo">Não Esqueça o Estepe</string>
+    <string name="tip10_conteudo">O estepe também precisa estar calibrado. Verifique ao menos uma vez por mês.</string>
+</resources>
